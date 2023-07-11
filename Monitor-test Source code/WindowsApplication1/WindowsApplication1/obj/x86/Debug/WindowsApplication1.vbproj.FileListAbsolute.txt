@@ -1,0 +1,316 @@
+C:\Users\TEST\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\TEST\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\TEST\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\TEST\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\ru-RU\WindowsApplication1.resources.dll
+C:\Users\TEST\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\TEST\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\TEST\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.ru-RU.resources
+C:\Users\TEST\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\TEST\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ru-RU\WindowsApplication1.resources.dll
+C:\Users\TEST\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\TEST\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\TEST\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\ru-RU\WindowsApplication1.resources.dll
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.ru-RU.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ru-RU\WindowsApplication1.resources.dll
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\ru\WindowsApplication1.resources.dll
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.ru.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ru\WindowsApplication1.resources.dll
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\ja-JP\WindowsApplication1.resources.dll
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.ja-JP.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ja-JP\WindowsApplication1.resources.dll
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+D:\Работа\Разработка программ\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Dialog1.resources
+D:\Работа\Разработка программ\Готово\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Работа\Разработка программ\Готово\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Работа\Разработка программ\Готово\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.exe
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.pdb
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.xml
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\ru-RU\Тест монитора.resources.dll
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Тест монитора.resources.dll
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\ja-JP\Тест монитора.resources.dll
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Dialog1.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.ru-RU.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.ru.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.ja-JP.resources
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ru-RU\Тест монитора.resources.dll
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ru\Тест монитора.resources.dll
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ja-JP\Тест монитора.resources.dll
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.exe
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.xml
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.pdb
+D:\Работа\Разработка программ\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+D:\Работа\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.exe
+D:\Работа\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.xml
+D:\Работа\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.pdb
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.exe
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.xml
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.pdb
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.exe
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.pdb
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.xml
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\ru-RU\Тест монитора.resources.dll
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Тест монитора.resources.dll
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\ja-JP\Тест монитора.resources.dll
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Dialog1.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.ru-RU.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.ru.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.ja-JP.resources
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ru-RU\Тест монитора.resources.dll
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ru\Тест монитора.resources.dll
+D:\Учёба\Разработка программ\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ja-JP\Тест монитора.resources.dll
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.exe
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.pdb
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.xml
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\ru-RU\Тест монитора.resources.dll
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Тест монитора.resources.dll
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\bin\Debug\ja-JP\Тест монитора.resources.dll
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Dialog1.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.ru-RU.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.ru.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.ja-JP.resources
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ru-RU\Тест монитора.resources.dll
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ru\Тест монитора.resources.dll
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ja-JP\Тест монитора.resources.dll
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.exe
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.xml
+F:\Учёба\Готовое\Тест монитора\Тест монитора\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.pdb
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Dialog1.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.ru-RU.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.ru.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.ja-JP.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.exe
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.xml
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.pdb
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.exe
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.pdb
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.xml
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\ru-RU\Тест монитора.resources.dll
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Тест монитора.resources.dll
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\ja-JP\Тест монитора.resources.dll
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ru-RU\Тест монитора.resources.dll
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ru\Тест монитора.resources.dll
+F:\Учёба\Visual Basic\Тест монитора\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ja-JP\Тест монитора.resources.dll
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.exe
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.pdb
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.xml
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\ru-RU\Тест монитора.resources.dll
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Тест монитора.resources.dll
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\ja-JP\Тест монитора.resources.dll
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Dialog1.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.ru-RU.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.ru.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.ja-JP.resources
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ru-RU\Тест монитора.resources.dll
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ru\Тест монитора.resources.dll
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ja-JP\Тест монитора.resources.dll
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.exe
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.xml
+E:\Study\Visual Basic\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.pdb
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.exe
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.pdb
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\Тест монитора.xml
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\ru-RU\Тест монитора.resources.dll
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Тест монитора.resources.dll
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\bin\Debug\ja-JP\Тест монитора.resources.dll
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Dialog1.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.ru-RU.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.ru.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.ja-JP.resources
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ru-RU\Тест монитора.resources.dll
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ru\Тест монитора.resources.dll
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ja-JP\Тест монитора.resources.dll
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.exe
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.xml
+E:\Study\Visual Basic\Проекты\Тест монитора 2.6\Monitor-test Source code\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Тест монитора.pdb
