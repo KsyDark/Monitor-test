@@ -3,7 +3,9 @@ A small learning project. I keep it as a memory for myself - Небольшой 
 
 Проект написан на Visual Basic, он в себе содержит экраны залитые разным цветом и геометрию, чтобы оценить состояние монитора. 
 Создавалось приложение ещё во времена, когда я учился. ничего особенного в нём нет, просто сохраняю на память.
+
 #########################################################
+
 The project is written in Visual Basic, it contains screens filled with different colors and geometry to evaluate the state of the monitor. 
 The application was created when I was still in school. there is nothing special in it, I just keep it as a reminder.
 
